@@ -1,6 +1,6 @@
 {
-  "name": "@cloudflare/mapbox-gl",
-  "description": "A WebGL interactive maps library",
+  "name": "@pcostanzo/mapbox-gl",
+  "description": "A less expensive WebGL interactive maps library with referrerPolicy support",
   "version": "1.14.0",
   "main": "dist/mapbox-gl.js",
   "style": "dist/mapbox-gl.css",
